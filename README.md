@@ -4,7 +4,7 @@
 ---
 
 ### Для англоязычных пользователей  
-[Use the English version here](#)
+[Use the English version here](#) (Later)
 
 ---
 
